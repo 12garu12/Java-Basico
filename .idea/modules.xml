@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Clase-System/Clase-System.iml" filepath="$PROJECT_DIR$/Clase-System/Clase-System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum/Enum.iml" filepath="$PROJECT_DIR$/Enum/Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modificadores-de-acceso/Modificadores-de-acceso.iml" filepath="$PROJECT_DIR$/Modificadores-de-acceso/Modificadores-de-acceso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema-jdl/Problema-jdl.iml" filepath="$PROJECT_DIR$/Problema-jdl/Problema-jdl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto3/Proyecto3.iml" filepath="$PROJECT_DIR$/Proyecto3/Proyecto3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prueba_Stream/Prueba_Stream.iml" filepath="$PROJECT_DIR$/Prueba_Stream/Prueba_Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RunTimePractice/RunTimePractice.iml" filepath="$PROJECT_DIR$/RunTimePractice/RunTimePractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Java-Codigo-Es/argumento-variables/argumento-variables.iml" filepath="$PROJECT_DIR$/../Java-Codigo-Es/argumento-variables/argumento-variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array_prueba/array_prueba.iml" filepath="$PROJECT_DIR$/array_prueba/array_prueba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase-abstracta/clase-abstracta.iml" filepath="$PROJECT_DIR$/clase-abstracta/clase-abstracta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase-object/clase-object.iml" filepath="$PROJECT_DIR$/clase-object/clase-object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clases-anidadas-estaticas/clases-anidadas-estaticas.iml" filepath="$PROJECT_DIR$/clases-anidadas-estaticas/clases-anidadas-estaticas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clases-internas-java/clases-internas-java.iml" filepath="$PROJECT_DIR$/clases-internas-java/clases-internas-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clases-internas-locales/clases-internas-locales.iml" filepath="$PROJECT_DIR$/clases-internas-locales/clases-internas-locales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class-java-time/class-java-time.iml" filepath="$PROJECT_DIR$/class-java-time/class-java-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codility/codility.iml" filepath="$PROJECT_DIR$/codility/codility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greforiancalendar/greforiancalendar.iml" filepath="$PROJECT_DIR$/greforiancalendar/greforiancalendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herencia/herencia.iml" filepath="$PROJECT_DIR$/herencia/herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herencia-multinivel/herencia-multinivel.iml" filepath="$PROJECT_DIR$/herencia-multinivel/herencia-multinivel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces-sort-sortedset-navigableset-treeset/interfaces-sort-sortedset-navigableset-treeset.iml" filepath="$PROJECT_DIR$/interfaces-sort-sortedset-navigableset-treeset/interfaces-sort-sortedset-navigableset-treeset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-tutorial-exercices.iml" filepath="$PROJECT_DIR$/.idea/java-tutorial-exercices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manejo-de-excepciones/manejo-de-excepciones.iml" filepath="$PROJECT_DIR$/manejo-de-excepciones/manejo-de-excepciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palabra-clave-super/palabra-clave-super.iml" filepath="$PROJECT_DIR$/palabra-clave-super/palabra-clave-super.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prueba-codility/prueba-codility.iml" filepath="$PROJECT_DIR$/prueba-codility/prueba-codility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queues-stacks/queues-stacks.iml" filepath="$PROJECT_DIR$/queues-stacks/queues-stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reloj_arena/reloj_arena.iml" filepath="$PROJECT_DIR$/reloj_arena/reloj_arena.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scope-java/scope-java.iml" filepath="$PROJECT_DIR$/scope-java/scope-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stepickcourse/stepickcourse.iml" filepath="$PROJECT_DIR$/stepickcourse/stepickcourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream/stream.iml" filepath="$PROJECT_DIR$/stream/stream.iml" />
+    </modules>
+  </component>
+</project>
